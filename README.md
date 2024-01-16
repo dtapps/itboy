@@ -1,8 +1,8 @@
 <h1>
-<a href="https://www.dtapp.net/">Golang itboy</a>
+<a href="https://www.dtapp.net/">Golang</a>
 </h1>
 
-📦 Golang itboy
+📦 Golang 免费天气预报
 
 [comment]: <> (go)
 [![godoc](https://pkg.go.dev/badge/go.dtapp.net/itboy?status.svg)](https://pkg.go.dev/go.dtapp.net/itboy)
@@ -13,5 +13,5 @@
 #### 安装
 
 ```shell
-go get -v -u go.dtapp.net/itboy@v1.0.0
+go get -v -u go.dtapp.net/itboy@v1.0.1
 ```
